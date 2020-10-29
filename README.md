@@ -4,7 +4,7 @@
 
 ### ESP-12F/DHT22 powered temperature/humidity sensor module
 
-<img src="https://i.aggressive.pizza/kicad_2020-10-29_12-10-13.png" alt="render" width="250"/><img src="https://i.aggressive.pizza/kicad_2020-10-29_12-10-37.png" alt="render" width="250"/>
+<img src="https://i.aggressive.pizza/kicad_2020-10-29_12-10-13.png" alt="render" width="350"/><img src="https://i.aggressive.pizza/kicad_2020-10-29_12-10-37.png" alt="render" width="350"/>
 
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
